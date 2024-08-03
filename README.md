@@ -14,7 +14,6 @@ Student of Electronics and Computer engineering at Vellore Institute of Technolo
 ![](https://github-contributor-stats.vercel.app/api?username=mk12002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=mk12002&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mk12002&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
