@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Student of Electronics and Computer engineering at Vellore Institute of Technology<br>he/him<br>ML Enthusiast<br>Currently working on Agentic AI projects
+Student of Electronics and Computer engineering at Vellore Institute of Technology<br>he/him<br>Passionate about building intelligent systems that bridge research and real-world impact.<br>Currently working on Agentic AI projects<br>Exploring new ideas, prototyping fast, and contributing to projects that push the boundaries of applied machine learning.
 
 
 ## 🌐 Socials:
