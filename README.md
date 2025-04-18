@@ -5,7 +5,7 @@ Student of Electronics and Computer engineering at Vellore Institute of Technolo
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitkumar111) <br> [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohitkr11) <br> Email - <a href="mailto:mohit.kr1103@gmail.com">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitkumar111) <br> Email - <a href="mailto:mohit.kr1103@gmail.com">
         mohit.kr1103@gmail.com
     </a>
 
