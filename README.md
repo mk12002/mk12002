@@ -184,16 +184,6 @@
 
 ---
 
-## 🎯 Coding Streak
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mk12002&theme=tokyonight&hide_border=true&fire=DD2727&ring=5BCDEC&currStreakLabel=5BCDEC)
-
-</div>
-
----
-
 ## 💼 What I'm Working On
 
 ```typescript
@@ -204,27 +194,6 @@ const current_projects = {
   consciousness_ai: "Autonomous systems that track and evaluate AI development"
 }
 ```
-
----
-
-## 🎮 Fun Stats
-
-<div align="center">
-
-### 🏆 GitHub Profile Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=mk12002&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-### 🐍 Contribution Snake
-
-![](https://raw.githubusercontent.com/mk12002/mk12002/output/github-contribution-grid-snake-dark.svg)
-
-### 📅 Weekly Development Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
 
 ---
 
