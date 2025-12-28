@@ -1,42 +1,45 @@
 <div align="center">
 
-# Hi there, I'm Mohit Kumar 👋
+# Hi, I'm Mohit Kumar 👋
 
-### ML Systems Engineer | Building Intelligence at the Intersection of Research & Production
+### ML Systems Engineer | Building Intelligent Systems from Research to Production
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://mohitkumar-mu.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitkumar111)
-[![Email](https://img.shields.io/badge/Email-Contact-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohit.kr1103@gmail.com)
+<br>
+
+<a href="https://mohitkumar-mu.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-a855f7?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/mohitkumar111" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/mk12002" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:mohit.kr1103@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```python
-class MLSystemsEngineer:
-    def __init__(self):
-        self.name = "Mohit Kumar"
-        self.role = "ML Systems Engineer"
-        self.education = "Electronics & Computer Engineering @ VIT"
-        self.location = "Bengaluru, India 🇮🇳"
-        
-    def current_focus(self):
-        return {
-            "research": ["Multi-Agent Systems", "Legal AI", "Consciousness Tracking"],
-            "building": ["Agentic AI Systems", "Hybrid Neural Architectures", "GAN Applications"],
-            "exploring": ["Digital Twins", "LLM Automation", "Graph Neural Networks"]
-        }
-    
-    def expertise(self):
-        return ["Computer Vision", "NLP", "Multi-Agent Systems", "Legal AI", 
-                "Production ML Systems", "Full-Stack ML Engineering"]
-```
+**ML Systems Engineer** specializing in building production-ready AI systems that solve real-world problems. Currently pursuing Electronics & Computer Engineering at VIT, with hands-on experience in Computer Vision, NLP, and Multi-Agent Systems.
 
-🔭 **What I Do**: I build applied ML systems that bridge cutting-edge research and real-world impact. From hybrid neural-symbolic architectures for legal AI to autonomous consciousness tracking systems, I love designing solutions that push the boundaries of what's possible.
+🎯 **What I Do:**
+- Design and deploy **hybrid neural-symbolic architectures** for legal AI (93.12% accuracy on 30K+ cases)
+- Build **multi-agent LLM systems** for autonomous research and decision-making
+- Develop **computer vision models** using Graph Neural Networks (95.8% accuracy on NTU-RGB+D)
+- Create **full-stack ML applications** with modern web frameworks and cloud deployment
 
-🌱 **Current Work**: Developing agentic AI systems, exploring GAN architectures for novel applications, and contributing to projects that advance applied machine learning in production environments.
+🔬 **Current Focus:**
+- Exploring **Agentic AI systems** with LangGraph and multi-agent orchestration
+- Researching **GAN architectures** for novel applications
+- Building **autonomous AI systems** that track and evaluate their own development
+- Developing **digital twins** and intelligent automation systems
+
+📍 **Location:** Bengaluru, India 🇮🇳
 
 ---
 
