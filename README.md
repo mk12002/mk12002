@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohit Kumar 👋
 
-### ML Systems Engineer | Building Intelligent Systems from Research to Production
+### Cybersecurity & AI Engineer | Building Intelligent Defense Systems from Research to Production
 
 <br>
 
@@ -25,21 +25,21 @@
 
 ## 👨‍💻 About Me
 
-**ML Systems Engineer** specializing in building production-ready AI systems that solve real-world problems. Currently pursuing Electronics & Computer Engineering at VIT, with hands-on experience in Computer Vision, NLP, and Multi-Agent Systems.
+**Cybersecurity & AI Engineer**, currently a **Cybersecurity Intern at ITC Infotech (Bangalore)**, working on **Email Security Evolution** — engineering a multi-agentic AI system to autonomously neutralize polymorphic, zero-day phishing threats. Pursuing Electronics & Computer Engineering at VIT Chennai, with two years of prior research/industry experience across Computer Vision, NLP, and Multi-Agent Systems.
 
 🎯 **What I Do:**
-- Design and deploy **hybrid neural-symbolic architectures** for legal AI (93.12% accuracy on 30K+ cases)
+- Build **multi-agentic security systems** — LangGraph-orchestrated agents for real-time threat correlation and explainable detection
+- Run **VAPT & SOC operations** — Burp Suite, Nmap, sqlmap, Nessus, Microsoft Sentinel, Splunk, Defender EDR/XDR
+- Design **hybrid neural-symbolic architectures** for high-stakes reasoning (legal AI, rule-governed eligibility systems)
 - Build **multi-agent LLM systems** for autonomous research and decision-making
-- Develop **computer vision models** using Graph Neural Networks (95.8% accuracy on NTU-RGB+D)
-- Create **full-stack ML applications** with modern web frameworks and cloud deployment
+- Develop **computer vision models** for segmentation, classification, and real-time analytics
 
 🔬 **Current Focus:**
-- Exploring **Agentic AI systems** with LangGraph and multi-agent orchestration
-- Researching **GAN architectures** for novel applications
-- Building **autonomous AI systems** that track and evaluate their own development
-- Developing **digital twins** and intelligent automation systems
+- **AI for Security, Security for AI** — adversarial robustness and AI-native threat detection
+- **Agentic AI systems** with LangGraph and multi-agent orchestration
+- **Cloud security & DevSecOps** — AWS Shared Responsibility Model, Shift-Left practices, OS hardening
 
-📍 **Location:** Bengaluru, India 🇮🇳
+📍 **Location:** Bangalore, India 🇮🇳
 
 ---
 
@@ -49,28 +49,28 @@
 <tr>
 <td width="50%">
 
-### 🏛️ [HybEx-Law](https://mohitkumar-mu.vercel.app/projects/hybex-law)
-**Hybrid Neural-Symbolic Legal AI System**
+### 🛡️ [Agentic Email Security](https://github.com/mk12002/email_security)
+**Multi-Agent AI Threat Neutralization Platform**
 
-- 🎯 93.12% accuracy in legal judgement prediction
-- 🧠 Combines BERT + Knowledge Graphs
-- ⚖️ Trained on 30,000+ Indian legal cases
-- 🔗 Graph Neural Networks for precedent reasoning
+- 🤖 7 independent AI agents, LangGraph orchestrator
+- ⚡ Neutralizes polymorphic, zero-day phishing
+- 📦 Runs within a strict 30GB RAM constraint
+- 🔍 Combinatorial threat correlation + explainable AI (XAI)
 
-**Tech**: PyTorch | Transformers | NetworkX | FastAPI
+**Tech**: LangGraph | XGBoost | TinyBERT | FastAPI | RabbitMQ
 
 </td>
 <td width="50%">
 
-### 🤖 [Nexus](https://mohitkumar-mu.vercel.app/projects/nexus)
-**Autonomous Legal Research System**
+### 🏛️ [HybEx-Law](https://mohitkumar-mu.vercel.app/projects/hybex-law)
+**Hybrid Neural-Symbolic Legal AI Engine**
 
-- 🔍 Reduces research time from hours to minutes
-- 🌐 Multi-agent orchestration with LangGraph
-- 📚 Processes 1000+ documents/query
-- 🎨 React + Three.js visualization
+- 🎯 0.985 F1-score on legal-aid eligibility prediction
+- 🧠 LegalBERT + GNN + Prolog rule engine
+- ⚖️ 100% statutory rule compliance via symbolic override
+- 🔗 Graph Attention Networks for rule-entity reasoning
 
-**Tech**: LangChain | Gemini | Qdrant | Spring Boot
+**Tech**: PyTorch | Transformers | SWI-Prolog | Sklearn
 
 </td>
 </tr>
@@ -78,28 +78,28 @@
 <tr>
 <td width="50%">
 
-### 🧠 [Machine Consciousness Tracker](https://mohitkumar-mu.vercel.app/projects/machine-consciousness)
-**Autonomous AI Progress Timeline**
+### 🤖 [Nexus](https://mohitkumar-mu.vercel.app/projects/nexus)
+**Agentic AI Research & Analysis Platform**
 
-- 🤖 Self-maintaining AI curation system
-- 📊 68% consciousness progress estimate
-- 🔄 Daily automated milestone evaluation
-- 🌟 LLM-powered significance assessment
+- 🔍 Cuts research time by ~90% (topic → PDF in <8s)
+- 🌐 3-agent pipeline: Research → Reporting → Storage
+- 📚 Retrieves from Google, Wikipedia, ArXiv, Fact-Check API
+- 🎨 React + LangGraph orchestration
 
-**Tech**: Python | Grok API | Vercel | Web Scraping
+**Tech**: LangGraph | Flask | Google Gemini | WeasyPrint
 
 </td>
 <td width="50%">
 
 ### 🏃 [HAR-GCNN](https://mohitkumar-mu.vercel.app/projects/har-gcnn)
-**Skeleton-Based Action Recognition**
+**Graph-Based Human Activity Recognition**
 
-- 🎯 95.8% accuracy on NTU-RGB+D dataset
-- 📈 17.8% improvement over CNN baselines
-- 🕸️ Graph Convolutional Networks on skeleton data
-- ⚡ Real-time inference capability
+- 🎯 99.99% accuracy on PAMAP2 sensor dataset
+- 🛡️ Robust to 66% missing labels
+- 🕸️ Graph Convolutional Networks for spatiotemporal modeling
+- ⚡ ~5000-parameter lightweight, edge-deployable model
 
-**Tech**: PyTorch | GCN | Computer Vision
+**Tech**: PyTorch | GCN | Signal Processing
 
 </td>
 </tr>
@@ -110,6 +110,13 @@
 ---
 
 ## 💻 Tech Stack
+
+### Security
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/MS_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ### Core ML & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -131,13 +138,11 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Data & Cloud
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -187,11 +192,11 @@
 ## 💼 What I'm Working On
 
 ```typescript
-const current_projects = {
-  agentic_systems: "Building multi-agent AI workflows with LangGraph",
-  gan_research: "Exploring novel GAN architectures for domain-specific applications",
-  legal_ai: "Advancing hybrid neural-symbolic systems for legal reasoning",
-  consciousness_ai: "Autonomous systems that track and evaluate AI development"
+const current_focus = {
+  email_security: "Multi-agentic AI for zero-day phishing neutralization @ ITC Infotech",
+  soc_operations: "Threat detection & response with Sentinel, Splunk, Defender XDR",
+  adversarial_ml: "Researching robustness of AI systems against attack",
+  agentic_systems: "Multi-agent AI workflows with LangGraph orchestration"
 }
 ```
 
@@ -199,7 +204,7 @@ const current_projects = {
 
 ## 📫 Let's Connect
 
-I'm always open to collaborating on ML projects, discussing research ideas, or exploring opportunities where AI can create real impact.
+I'm always open to collaborating on security/AI projects, discussing research ideas, or exploring opportunities at the intersection of AI and cybersecurity.
 
 <div align="center">
 
@@ -219,7 +224,7 @@ I'm always open to collaborating on ML projects, discussing research ideas, or e
 
 <div align="center">
 
-### 💡 *"Building intelligence that bridges research and reality"*
+### 💡 *"The future of security is AI-native — and the future of AI must be secure."*
 
 ### 🎲 Random Joke Generator
 
@@ -234,7 +239,7 @@ I'm always open to collaborating on ML projects, discussing research ideas, or e
 ### 📌 Pinned Note
 
 ```python
-if interested_in_ml or looking_for_collaboration:
+if interested_in_security_ai or looking_for_collaboration:
     print("Let's build something amazing together!")
     connect_with_me()
 ```
