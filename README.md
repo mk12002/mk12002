@@ -49,16 +49,6 @@ class MohitKumar(SecurityEngineer, MLResearcher):
 ![output](https://img.shields.io/badge/output-SARIF%20·%20HTML%20·%20JSON-4f8cc9?style=flat-square)
 ![license](https://img.shields.io/badge/license-Apache--2.0%20%2F%20MIT-blue?style=flat-square)
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/mk12002/Bulwark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mk12002&repo=Bulwark&theme=tokyonight&hide_border=true" /></a></td>
-<td width="50%"><a href="https://github.com/mk12002/Bastion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mk12002&repo=Bastion&theme=tokyonight&hide_border=true" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/mk12002/Lattice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mk12002&repo=Lattice&theme=tokyonight&hide_border=true" /></a></td>
-<td width="50%"><a href="https://github.com/mk12002/Portcullis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mk12002&repo=Portcullis&theme=tokyonight&hide_border=true" /></a></td>
-</tr>
-</table>
 
 | 🔎 Scanner | Hunts | The number that matters |
 |---|---|---|
@@ -74,7 +64,7 @@ class MohitKumar(SecurityEngineer, MLResearcher):
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/mk12002/Intermediate-Representation-IR-Framework-for-SIEM-Rule-Generation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mk12002&repo=Intermediate-Representation-IR-Framework-for-SIEM-Rule-Generation&theme=tokyonight&hide_border=true" /></a></td>
+
 <td width="50%" valign="top">
 
 **Schema-Grounded NL → KQL for SIEM**
